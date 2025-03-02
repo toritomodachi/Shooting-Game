@@ -43,18 +43,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: BackGround
-    uniqueID: 2710904777
+  - name: Backround
+    uniqueID: 1862664391
     locked: 0
   - name: Object
-    uniqueID: 1147741427
+    uniqueID: 3137257939
     locked: 0
   - name: Player
-    uniqueID: 1535454987
+    uniqueID: 3160052963
     locked: 0
   - name: Enemy
-    uniqueID: 2962816563
+    uniqueID: 2531769233
     locked: 0
   - name: Effect
-    uniqueID: 3320185399
+    uniqueID: 729723399
     locked: 0
